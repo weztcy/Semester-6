@@ -1,4 +1,6 @@
 materi kosong: 
 - dasar kewirausahaan
-- komputasi numerik
 - rekayasa kebutuhan perangkat lunak
+
+Tugas
+Pendidikan Pancasila - Done
